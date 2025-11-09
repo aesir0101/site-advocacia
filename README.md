@@ -2,7 +2,10 @@
 
 “A elegância está nos detalhes. Inclusive no código.”
 
-🌐 Acesse o projeto aqui
+🌐 Acesse o projeto aqui 🚀 Deploy
+
+O projeto está hospedado gratuitamente no Netlify:
+🔗 https://advocaciarj.netlify.app/
 
 ![Uploading image.png…](https://github.com/aesir0101/site-advocacia/assets/84733192/fe469ef2-b5bb-4d7d-88f5-629334bb05ed)
 
@@ -57,7 +60,4 @@ Criação de páginas realistas e profissionais
 
 Detalhes de design e usabilidade (UX/UI)
 
-🚀 Deploy
 
-O projeto está hospedado gratuitamente no Netlify:
-🔗 https://advocaciarj.netlify.app/
