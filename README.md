@@ -1,8 +1,9 @@
-👔 #Site Advocacia — Pearson Hardman
+ # Site Advocacia — Pearson Hardman 👔
 
 “A elegância está nos detalhes. Inclusive no código.”
 
-🌐 # Acesse o projeto aqui 🚀 Deploy
+ # Acesse o projeto aqui 🌐
+🚀 Deploy
 
 O projeto está hospedado gratuitamente no Netlify:
 🔗 https://advocaciarj.netlify.app/
@@ -14,7 +15,7 @@ O projeto está hospedado gratuitamente no Netlify:
 Este projeto foi inspirado na série Suits, recriando o site fictício do escritório de advocacia Pearson Hardman.
 A proposta é combinar design elegante, responsividade e interatividade — simulando o ambiente digital de um escritório jurídico de alto padrão.
 
-💡 # Objetivos
+ # Objetivos 💡
 
 Praticar HTML, CSS e JavaScript puro
 
@@ -24,7 +25,7 @@ Trabalhar conceitos de UX/UI e layout corporativo
 
 Explorar técnicas de animação e manipulação de DOM
 
-⚙️ # Tecnologias utilizadas
+ # Tecnologias utilizadas ⚙️
 
 HTML5 — estrutura semântica
 
@@ -36,7 +37,7 @@ Bootstrap Icons — ícones e detalhes visuais
 
 Google Fonts — tipografia moderna
 
-✨ # Funcionalidades
+ # Funcionalidades ✨
 
 Menu mobile com transição fluida
 
@@ -48,7 +49,7 @@ Layout totalmente responsivo
 
 Design elegante inspirado no universo jurídico
 
-🧠 # Aprendizados
+ # Aprendizados 🧠
 
 Durante o desenvolvimento, aprimorei habilidades em:
 
